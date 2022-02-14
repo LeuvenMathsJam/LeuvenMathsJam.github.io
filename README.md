@@ -5,4 +5,5 @@ Everyone welcome, no matter maths skills, interest, origin or native language.
 
 See you there, hopefully.
 
+![](/mathsjams-poster1.png)
 ![](https://www.mathsjam.com/assets/images/papy.svg)
