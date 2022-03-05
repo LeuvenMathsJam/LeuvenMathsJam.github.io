@@ -13,7 +13,7 @@ Everyone welcome, no matter maths skills, interest, origin or native language. W
 # Digital Meetup
 
 We also meet digitallly using the mathematically intersting [Signal Private Messenger App](https://signal.org/download). You can find us using the link below or by scanning the equally valid QR code.
-https://signal.group/#CjQKIFqj30BPk5afN4fyrKYd6SfIhKePytDF6dYGJvHulPq8EhDwLRPBvWcbcS6sIc9W3EIg
+[https://signal.group/#CjQKIFqj30BPk5afN4fyrKYd6SfIhKePytDF6dYGJvHulPq8EhDwLRPBvWcbcS6sIc9W3EIg](https://signal.group/#CjQKIFqj30BPk5afN4fyrKYd6SfIhKePytDF6dYGJvHulPq8EhDwLRPBvWcbcS6sIc9W3EIg)
 
 ![](/figures/MathsJamQR.png)
 
